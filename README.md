@@ -1,2 +1,2 @@
 # driverCH34X
-Driver CH34X untuk Board Arduino Clone (buatan Chine).
+Driver CH34X untuk Board Arduino Clone (buatan China).
